@@ -7,6 +7,12 @@ A MelonJS made "Flappy Bird" clone.
 
 Play online at http://ellisonleao.github.io/clumsy-bird/
 
+## Running on Stackato
+
+```
+stackato push -n
+```
+
 ## Running Locally
 
 - Install [Node](http://nodejs.org/download/) and [Grunt](http://gruntjs.com/)
