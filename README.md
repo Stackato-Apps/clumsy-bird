@@ -7,7 +7,7 @@ A MelonJS made "Flappy Bird" clone.
 
 Play online at http://ellisonleao.github.io/clumsy-bird/
 
-## Running on Stackato
+## Running on HPE Helion Stackato
 
 ```
 stackato push -n
