@@ -1,4 +1,4 @@
 applications:
 - name: clumsy-bird-docker
   docker_image: stackatoapps/clumsy-bird:latest
-  memory: 64M
+  memory: 128M
